@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Displays if gate is open/closed 1`] = `
+<body>
+  <div>
+    <div
+      class="display panel"
+    >
+      <div
+        class="led red-led"
+      >
+        Locked
+      </div>
+      <div
+        class="led red-led"
+      >
+        Closed
+      </div>
+    </div>
+  </div>
+</body>
+`;
